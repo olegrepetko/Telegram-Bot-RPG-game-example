@@ -1,0 +1,36 @@
+[
+  {
+    "id": "c00",
+    "name": {
+      "ru": "Начальный лагерь"
+    },
+    "desc": {},
+    "min_lvl": 1,
+    "max_lvl": 5,
+    "locations": [
+      {
+        "id": "loc001",
+        "name": {
+          "ru": "Начальный лагерь"
+        },
+        "desc": {},
+        "min_lvl": 1,
+        "max_lvl": 5,
+        "monsters": [
+          {
+            "id": "m001",
+            "chance": 30
+          },
+          {
+            "id": "m002",
+            "chance": 30
+          },
+          {
+            "id": "m003",
+            "chance": 30
+          }
+        ]
+      }
+    ]
+  }
+]

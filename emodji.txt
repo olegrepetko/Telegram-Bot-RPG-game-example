@@ -1,0 +1,33 @@
+human:👨
+elf:🧝
+warrior:⚔️
+bowman:🏹
+
+red heart:❤️
+black heart:🖤
+
+warning: ⚠️
+not entry: ⛔
+
+white-circle: ⚪
+black-circle: ⚫
+
+exp:🔸
+
+vacation:⛱️
+
+gem:💎
+gift:🎁
+battery:🔋
+scroll:📜
+money bag:💰
+locked:🔒
+unlocked:🔓
+key:🗝️
+dagger:🗡️
+shield:🛡️
+balance:⚖️
+tablet:💊
+vase:⚱️
+
+

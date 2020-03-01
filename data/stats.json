@@ -1,0 +1,47 @@
+{
+  "primary": {
+    "hp": 100,
+    "dmg_min": 1,
+    "dmg_max": 1,
+    "def": 0,
+    "acc": 100,
+    "dd": 100,
+    "cr_dmg": 1.5,
+    "cr_chance": 0.05
+  },
+  "race": [
+    {
+      "inc": {
+        "hp": 30
+      },
+      "bonus": {
+        "dmg_min": 0.1,
+        "dmg_max": 0.1
+      }
+    }
+  ],
+  "species": [
+    {
+      "inc": {
+      },
+      "bonus": {
+        "hp": 0.1,
+        "dmg_min": 0.1,
+        "dmg_max": 0.1,
+        "def": 0.1,
+        "acc": 0.05
+      }
+    },
+    {
+      "inc": {
+      },
+      "bonus": {
+        "hp": 0.05,
+        "acc": 0.1,
+        "dd": 0.1,
+        "cr_dmg": 0.2,
+        "cr_chance": 0.05
+      }
+    }
+  ]
+}

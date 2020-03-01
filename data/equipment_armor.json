@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ea001",
+    "name": {
+      "ru": "Железные доспехи новичка"
+    },
+    "desc": {},
+    "cost": {
+      "silver": 1
+    },
+    "species": 0,
+    "min_lvl": 1,
+    "stats": {
+      "def": 30
+    },
+    "bonuses": {
+      "hp": 0.1
+    }
+  },
+  {
+    "id": "ea002",
+    "name": {
+      "ru": "Кожаные доспехи новичка"
+    },
+    "desc": {},
+    "cost": {
+      "silver": 1
+    },
+    "species": 1,
+    "min_lvl": 1,
+    "stats": {
+      "def": 10
+    },
+    "bonuses": {
+      "cr_chance": 0.05
+    }
+  }
+]

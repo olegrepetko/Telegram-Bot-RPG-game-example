@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ew001",
+    "name": {
+      "ru": "Меч новичка"
+    },
+    "cost": {
+      "silver": 1
+    },
+    "species": 0,
+    "min_lvl": 1,
+    "stats": {
+      "dmg_min": 20,
+      "dmg_max": 30
+    }
+  },
+  {
+    "id": "ew002",
+    "name": {
+      "ru": "Лук новичка"
+    },
+    "cost": {
+      "silver": 1
+    },
+    "species": 1,
+    "min_lvl": 1,
+    "stats": {
+      "dmg_min": 10,
+      "dmg_max": 50
+    }
+  }
+]

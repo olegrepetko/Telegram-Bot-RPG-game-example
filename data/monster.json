@@ -1,0 +1,81 @@
+[
+  {
+    "id": "m001",
+    "name": {
+      "ru": "Огненая жаба"
+    },
+    "desc": {},
+    "type": 0,
+    "is_agr": false,
+    "exp": 10,
+    "stats": {
+      "hp": 30,
+      "min_dmg": 5,
+      "max_dmg": 10,
+      "acc": 200,
+      "dd": 150,
+      "cr_dmg": 1.3,
+      "cr_chance": 0.1
+    },
+    "loot": {
+      "repeat": 1,
+      "items": [
+        {
+          "id": "il001",
+          "chance": 0.3
+        }
+      ]
+    }
+  },
+  {
+    "id": "m002",
+    "name": {
+      "ru": "Магмоид"
+    },
+    "desc": {},
+    "type": 0,
+    "is_agr": false,
+    "exp": 20,
+    "stats": {
+      "hp": 50,
+      "min_dmg": 7,
+      "max_dmg": 12,
+      "acc": 200,
+      "dd": 50,
+      "cr_dmg": 1.3,
+      "cr_chance": 0.1
+    },
+    "loot": {
+      "repeat": 0,
+      "items": []
+    }
+  },
+  {
+    "id": "m003",
+    "name": {
+      "ru": "Горящий гуль"
+    },
+    "desc": {},
+    "type": 1,
+    "is_agr": false,
+    "exp": 50,
+    "stats": {
+      "hp": 200,
+      "min_dmg": 10,
+      "max_dmg": 15,
+      "acc": 200,
+      "dd": 50,
+      "cr_dmg": 2.0,
+      "cr_chance": 0.05
+    },
+    "loot": {
+      "repeat": 1,
+      "items": [
+        {
+          "id": "il002",
+          "chance": 0.75
+        }
+      ]
+    }
+  }
+]
